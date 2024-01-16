@@ -48,3 +48,5 @@ end
 gem 'dotenv-rails'
 
 gem 'rubocop', '>= 1.0', '< 2.0'
+
+gem 'rack-cors'
