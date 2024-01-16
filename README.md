@@ -95,7 +95,7 @@ Install this project with Iroko.
 
 ### Usage
 
-To run the project, execute the following command:
+API Endpoint:
 
 ```sh
 /api/messages/random
