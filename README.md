@@ -20,6 +20,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+- [🚀 Front-end Link](#front-end)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -63,9 +64,17 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FRONT END -->
+
+### FRONT END
+
+> View the [Front-end](https://github.com/anyars-encarta/hello-react-front-end.git) part of the project here.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started"></a>
+### 💻 Getting Started <a name="getting-started"></a>
 
 > To get a local copy of the project, use this link:
 > 
